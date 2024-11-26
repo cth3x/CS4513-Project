@@ -1,0 +1,15 @@
+Team6, IT,2021-06-15
+Team7, Support,2022-01-10
+Team8, Operations,2020-09-01
+Team9, Operations,2021-11-05
+Team10, Logistics,2019-05-25
+Team11, Marketing, 2022-03-22
+Team12, Finance, 2020-11-18
+Team13, Sales, 2021-08-30
+Team14, IT, 2019-07-17
+Team15, HR, 2022-02-14
+Team16, Product, 2020-12-09
+Team17, Legal, 2021-05-05
+Team18, Customer Service, 2020-04-10
+Team19, R&D, 2021-09-25
+Team20, Quality Assurance, 2022-06-01

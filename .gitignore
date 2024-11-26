@@ -1,0 +1,53 @@
+# Mac OS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+out/
+target/
+
+# Compiled Java
+*.class
+*.jar
+bin/
+build/
+
+# Package Files
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+application.properties
+*.properties
+
+# Logs
+*.log
+logs/
+
+# VS Code
+.vscode/
+.settings/
+.classpath
+.project
+
+# Temp files
+*.swp
+*.swo
+*~
+*.tmp
